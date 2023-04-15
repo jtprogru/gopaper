@@ -3,6 +3,8 @@ module github.com/jtprogru/gopaper
 go 1.20
 
 require (
+	github.com/dghubble/oauth1 v0.7.2
+	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/viper v1.15.0
 )
